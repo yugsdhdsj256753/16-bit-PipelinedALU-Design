@@ -19,9 +19,7 @@ The design supports multiple arithmetic and logical operations and has been synt
 - OR
 - XOR
 - NOT
-Improved throughput through pipelining
-Static Timing Analysis (STA)
-RTL simulation and synthesis
+
 ## Pipeline Architecture
 ### Stage 1
 Input register
