@@ -34,9 +34,9 @@ Output register
 This pipelined implementation reduces the combinational delay, enabling higher clock frequencies compared to a non-pipelined ALU.
 
 ## Tools Used
-Verilog HDL
-Intel Quartus Prime
-TimeQuest Timing Analyzer
+-Verilog HDL
+-Intel Quartus Prime
+-TimeQuest Timing Analyzer
 
 ## Results
 Successfully synthesized using Quartus Prime.
@@ -48,6 +48,6 @@ Increase pipeline depth for higher clock frequencies.
 Add multiplication and shift operations.
 Parameterize the ALU width (e.g., 8-bit, 16-bit, 32-bit, 64-bit).
 Implement forwarding and hazard handling for processor integration.
-Author
+##Author
 
 Yuvaraj Dhayal D
