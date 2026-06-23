@@ -34,7 +34,7 @@ Output register
 This pipelined implementation reduces the combinational delay, enabling higher clock frequencies compared to a non-pipelined ALU.
 
 ## Tools Used
--Verilog HDL
+- Verilog HDL
 -Intel Quartus Prime
 -TimeQuest Timing Analyzer
 
