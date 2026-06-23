@@ -1,6 +1,6 @@
 # 16-bit-PipelinedALU-Design
 16 Bit Pipelined ALU design Description
-#Project Overview
+## Project Overview
 
 This project implements a 16-bit Arithmetic Logic Unit (ALU) in synthesizable Verilog HDL with a 2-stage pipelined architecture to improve operating frequency and throughput by reducing the critical path delay.
 
