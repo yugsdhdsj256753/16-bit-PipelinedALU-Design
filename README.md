@@ -43,11 +43,11 @@ Successfully synthesized using Quartus Prime.
 Reduced critical path delay using a 2-stage pipeline.
 Improved maximum operating frequency compared to the non-pipelined design.
 Verified functionality through simulation.
-##Future Improvements
+## Future Improvements
 Increase pipeline depth for higher clock frequencies.
 Add multiplication and shift operations.
 Parameterize the ALU width (e.g., 8-bit, 16-bit, 32-bit, 64-bit).
 Implement forwarding and hazard handling for processor integration.
-##Author
+## Author
 
 Yuvaraj Dhayal D
