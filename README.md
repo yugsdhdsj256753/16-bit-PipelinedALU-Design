@@ -10,15 +10,15 @@ The design supports multiple arithmetic and logical operations and has been synt
 16-bit synthesizable Verilog HDL design
 2-stage pipelined architecture
 ### Arithmetic operations
-Addition
-Subtraction
-Increment
-Decrement
+- Addition
+- Subtraction
+- Increment
+- Decrement
 ### Logical operations
-AND
-OR
-XOR
-NOT
+- AND
+- OR
+- XOR
+- NOT
 Improved throughput through pipelining
 Static Timing Analysis (STA)
 RTL simulation and synthesis
@@ -35,8 +35,8 @@ This pipelined implementation reduces the combinational delay, enabling higher c
 
 ## Tools Used
 - Verilog HDL
--Intel Quartus Prime
--TimeQuest Timing Analyzer
+- Intel Quartus Prime
+- TimeQuest Timing Analyzer
 
 ## Results
 Successfully synthesized using Quartus Prime.
